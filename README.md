@@ -24,7 +24,7 @@ brew install sfml
 1. Navigate to the project directory:
 
 ```bash
-cd /path/to/spaceship
+cd /path/to/asteroids-cpp
 ```
 
 2. Create a build directory and navigate to it:
