@@ -6,7 +6,7 @@ A modern C++ implementation of the classic Asteroids game for macOS Sequoia 15.0
 
 - macOS Sequoia 15.0 or newer
 - CMake 3.12 or newer
-- SFML 2.5 or newer
+- SFML 3 or newer
 
 ## Building the Game
 
