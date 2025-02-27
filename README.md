@@ -2,11 +2,15 @@
 
 A modern C++ implementation of the classic Asteroids game for macOS Sequoia 15.0.
 
+## Gameplay video
+
+
+
 ## Requirements
 
 - macOS Sequoia 15.0 or newer
 - CMake 3.12 or newer
-- SFML 2.5 or newer
+- SFML 3 or newer
 
 ## Building the Game
 
@@ -24,7 +28,7 @@ brew install sfml
 1. Navigate to the project directory:
 
 ```bash
-cd /path/to/spaceship
+cd /path/to/asteroids-cpp
 ```
 
 2. Create a build directory and navigate to it:
