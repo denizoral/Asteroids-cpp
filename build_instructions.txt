@@ -1,0 +1,35 @@
+======================================
+Asteroids Game - Build Instructions
+======================================
+
+I've created a convenient build script to make compiling and running the game easier.
+
+First, make the script executable:
+
+    chmod +x build.sh
+
+Basic usage examples:
+
+1. Clean, build with SFML, and run:
+    ./build.sh -c -r
+
+2. Build without SFML (text-only mode):
+    ./build.sh -n
+
+3. Enable verbose output to see all compiler messages:
+    ./build.sh -v
+
+4. Get help on all available options:
+    ./build.sh -h
+
+If you encounter SFML-related errors, you may need to:
+1. Install SFML: brew install sfml
+2. Update SFML: brew upgrade sfml
+3. Or try building without SFML: ./build.sh -n
+
+For complete details, see the README_BUILD.md file.
+
+For macOS Sequoia 15.0 compatibility, the build system has been configured 
+to create a proper app bundle with appropriate settings.
+
+Enjoy the game!
