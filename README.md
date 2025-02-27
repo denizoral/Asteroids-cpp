@@ -2,6 +2,10 @@
 
 A modern C++ implementation of the classic Asteroids game for macOS Sequoia 15.0.
 
+## Gameplay video
+
+
+
 ## Requirements
 
 - macOS Sequoia 15.0 or newer
